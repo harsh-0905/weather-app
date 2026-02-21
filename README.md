@@ -29,7 +29,7 @@ A real-time weather application built using **Next.js, TypeScript, Tailwind CSS,
 
 ## 📸 Preview
 
-![Weather App Screenshot](https://via.placeholder.com/800x400.png?text=Weather+App+Preview)
+![Weather App Screenshot](./preview.png)
 
 ---
 
